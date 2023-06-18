@@ -1,18 +1,21 @@
-# 💫 About Me:
-Jannek Haserick | 23 y/o | University Freiburg
+<h1 align="center">Hey 👋, ich bin Jannek</h1>
+<h3 align="center">Minecraft Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jannekhas&label=Profile%20views&color=0e75b6&style=flat" alt="jannekhas" /> </p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.plunamc.de) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jannekhas) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jannekhas) 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jannekhas" alt="jannekhas" /></a> </p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JannekHas&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JannekHas&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JannekHas&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/jannekhas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jannekhas" height="30" width="40" /></a>
+<a href="https://discord.gg/jannek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jannek" height="30" width="40" /></a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=JannekHas&icon=6&color=11)](https://visitcount.itsvg.in)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jannekhas&show_icons=true&locale=en&layout=compact" alt="jannekhas" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jannekhas&show_icons=true&locale=en" alt="jannekhas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jannekhas&" alt="jannekhas" /></p>
