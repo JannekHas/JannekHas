@@ -5,11 +5,14 @@
 
 - 🔭 Aktuell arbeite ich an dem Minecraftserver **Duno**
 
-- 📫 Du erreichst mich am Besten auf Discord **jannek**
+- 🌱 Aktuell lerne ich **Udemy Develop Minecraft Plugins (Java), Mineacadmy NMS Advanced**
+
+- 📫 Du erreichst mich am Besten auf Discord: **jannek**
+
+- ⚡ Fun fact **Ich habe meinen echten Namen als Discord Username bekommen :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/jannekhas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jannekhas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
