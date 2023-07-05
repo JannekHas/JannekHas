@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jannekhas&label=Profile%20views&color=0e75b6&style=flat" alt="jannekhas" /> </p>
 
-- 🔭 Aktuell arbeite ich an dem Minecraftserver **Duno**
+- 🔭 Aktuell arbeite ich an dem Minecraftserver **Yupiter**
 
-- 🌱 Aktuell lerne ich **Udemy Develop Minecraft Plugins (Java), Mineacadmy NMS Advanced**
+- 🌱 Aktuell lerne ich **Udemy Develop Minecraft Plugins (Java)**
 
 - 📫 Du erreichst mich am Besten auf Discord: **jannek**
 
