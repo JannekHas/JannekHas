@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jannekhas&label=Profile%20views&color=0e75b6&style=flat" alt="jannekhas" /> </p>
 
-- 🔭 Aktuell arbeite ich an dem Minecraftserver **Yupiter**
+- 🔭 Aktuell arbeite ich an verschiedenen Minecraft Mods und Plugins
 
 - 🌱 Aktuell lerne ich **Udemy Develop Minecraft Plugins (Java)**
 
