@@ -5,7 +5,7 @@
 
 - 🔭 Aktuell arbeite ich an verschiedenen Minecraft Mods und Plugins
 
-- 🌱 Aktuell lerne ich **Udemy Develop Minecraft Plugins (Java)**
+- 🌱 Aktuell lerne ich **Udemy Develop Minecraft Plugins (Java)** und **Discord Bot Entwicklung mit Java**
 
 - 📫 Du erreichst mich am Besten auf Discord: **jannek**
 
