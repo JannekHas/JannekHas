@@ -13,6 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://discord.com/channels/@me" target="_blank" rel="noreferrer">Discord: jannek</a> | 
+  <a href="https://www.instagram.com/jannekhas" target="_blank" rel="noreferrer" style="text-decoration: none; background-color: #0078d4; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">Instagram: jannekhas</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
