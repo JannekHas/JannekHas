@@ -6,8 +6,8 @@
 </p>
 <br>
 <p align="center">
-  <strong>🔭 Aktuell arbeite ich an verschiedenen WebApps und PWAs</strong><br><br>
-  <strong>🌱 Aktuell lerne ich <code>JavaScript</code>, <code>Node.js</code></strong><br><br>
+  <strong>🔭 Aktuell arbeite ich an verschiedenen Minecraft Plugins und einer eigenen API</strong><br><br>
+  <strong>🌱 Aktuell lerne ich <code>eigene Minecraft API</code></strong><br><br>
   <strong>📫 Du erreichst mich am Besten auf Discord: <code>jannek</code></strong><br><br>
   <strong>⚡ Fun fact: Ich habe meinen echten Namen als Discord Username bekommen :)</strong>
 </p>
