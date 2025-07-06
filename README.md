@@ -8,13 +8,13 @@
   <strong>⚡ Fun fact: Ich habe meinen echten Namen als Discord Username bekommen :)</strong>
 </p>
 <br>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Kontakt:</h3>
 <p align="center">
   <a href="https://discord.com/channels/@me" target="_blank" rel="noreferrer">Discord: jannek</a> | 
   <a href="https://www.instagram.com/jannekhas" target="_blank" rel="noreferrer">Instagram: jannekhas</a>
 </p>
 <br>
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Sprachen und Tools:</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
