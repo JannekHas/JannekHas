@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, ich bin Jannek</h1>
-<h3 align="center">Minecraft Developer & Web Developer</h3>
+<h3 align="center">Minecraft Developer</h3>
 <br>
 <p align="center">
   <strong>🔭 Aktuell arbeite ich an verschiedenen Minecraft Plugins und einer eigenen API</strong><br><br>
