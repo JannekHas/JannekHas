@@ -48,4 +48,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   </a>
 </p>
-
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Top Languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JannekkHas&layout=compact&langs_count=8&theme=tokyonight" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Wakatime Stats" height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jannnnek&layout=compact&theme=tokyonight" />
+  </a>
+</p>
