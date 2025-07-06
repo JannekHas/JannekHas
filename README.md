@@ -1,10 +1,6 @@
 <h1 align="center">Hey 👋, ich bin Jannek</h1>
 <h3 align="center">Minecraft Developer & Web Developer</h3>
 <br>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=jannekhas&label=Profile%20views&color=0e75b6&style=flat" alt="jannekhas" />
-</p>
-<br>
 <p align="center">
   <strong>🔭 Aktuell arbeite ich an verschiedenen Minecraft Plugins und einer eigenen API</strong><br><br>
   <strong>🌱 Aktuell lerne ich <code>eigene Minecraft API</code></strong><br><br>
@@ -53,4 +49,8 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jannnnek&layout=compact&theme=tokyonight" />
   </a>
+</p>
+<br>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=jannekhas&label=Profile%20views&color=0e75b6&style=flat" alt="jannekhas" />
 </p>
