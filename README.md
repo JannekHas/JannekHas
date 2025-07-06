@@ -48,6 +48,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   </a>
 </p>
+<br>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jannnnek&layout=compact&theme=tokyonight" />
