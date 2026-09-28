@@ -4,7 +4,7 @@
 <p align="center">
   <strong>🎓 Ich studiere Embedded Systems Engineering an der Universität Freiburg (Bachelor voraussichtlich 2027)</strong><br><br>
   <strong>🔭 Aktuell arbeite ich an meinem Bachelorprojekt (adaptive Messrate in einem Sensornetzwerk) und an Minecraft Plugins</strong><br><br>
-  <strong>📫 Du erreichst mich am Besten auf LinkedIn oder Discord: <code>jannek</code></strong><br><br>
+  <strong>📫 Du erreichst mich am Besten auf Discord: <code>jannek</code></strong><br><br>
   <strong>⚡ Fun fact: Ich habe meinen echten Namen als Discord Username bekommen :)</strong>
 </p>
 <br>
