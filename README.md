@@ -11,7 +11,7 @@
 <h3 align="center">Kontakt:</h3>
 <p align="center">
   <a href="https://haserick.de" target="_blank" rel="noreferrer">Website: haserick.de</a> | 
-  <a href="https://www.linkedin.com/in/jannek-haserick" target="_blank" rel="noreferrer">LinkedIn</a> | 
+  <a href="https://www.linkedin.com/in/jannek-haserick" target="_blank" rel="noreferrer">LinkedIn: Jannek Haserick</a> | 
   <a href="https://discord.com/channels/@me" target="_blank" rel="noreferrer">Discord: jannek</a> | 
   <a href="https://www.instagram.com/jannekhas" target="_blank" rel="noreferrer">Instagram: jannekhas</a>
 </p>
