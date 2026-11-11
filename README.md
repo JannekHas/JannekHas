@@ -27,7 +27,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🌐 <a href="https://haserick.de">Websites</a></h4>
-      Gestaltung und Umsetzung von Websites, darunter mein Portfolio <a href="https://haserick.de">haserick.de</a>.<br><br>
+      Gestaltung und Umsetzung von Websites, darunter mein Portfolio <a href="https://haserick.de">haserick.de</a> und Duno Studio <a href="https://dunostudio.de">dunostudio.de</a>.<br><br>
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>GitHub Pages</code>
     </td>
     <td width="50%" valign="top">
